@@ -8,8 +8,8 @@ def main():
     if(sys.argv[1] == 'france'):
         print("i am from France")
 
-    else(sys.argv[1] == 'india'):
-        print("I am from India")
+    else:
+        print("Second col.")
 
 
 if __name__ == "__main__":

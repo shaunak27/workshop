@@ -1,5 +1,2 @@
-xyz
-hi
-
 abc
 hello
